@@ -2,9 +2,9 @@
 <h2> Hi, I'm Joseph Antonio Carita</h2>
 <p>
   <em>
-    Software Engineering student at <a href="http://www.unb.br">Technological University of Peru</a>
+    Software Engineering student at <a href="https://www.utp.edu.pe/">Technological University of Peru</a>
   </br>
-    Software Developer at <a href="https://www.thoughtworks.com">NTT Data Europe & Latam</a>
+    Software Developer at <a href="https://pe.nttdata.com/">NTT Data Europe & Latam</a>
   </em>
 </p>
 
